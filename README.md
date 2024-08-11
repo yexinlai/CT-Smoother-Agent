@@ -5,7 +5,7 @@ Framework:
 ![framework](image/framework.png)
 
 Demo:
-ground truth:![Demo Video](image/gt.gif)
-pred:![Demo Video](image/drl.gif)
-
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="image/gt.gif" alt="First GIF" width="300"/>
+  <img src="image/drl.gif" alt="Second GIF" width="300"/>
+</div>
