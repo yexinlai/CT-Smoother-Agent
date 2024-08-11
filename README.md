@@ -5,7 +5,7 @@ Framework:
 ![framework](image/framework.png)
 
 Demo:
-![Demo Video](image/gt.gif)
-![Demo Video](image/drl.gif)
+ground truth:![Demo Video](image/gt.gif)
+pred:![Demo Video](image/drl.gif)
 
 
