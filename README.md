@@ -2,7 +2,7 @@
 We perform a series of optimization operations on continuous CT data.
 
 Framework:
-<img src="image/framework.png" alt="Project Logo" width="200" height="300"/>
+<img src="image/framework.png" alt="Project Logo" width="400" height="450"/>
 
 
 Demo:
