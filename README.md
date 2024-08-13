@@ -1,5 +1,5 @@
-# MDRU-Net
-We perform a series of optimization operations on continuous CT data.
+# CTSA
+We perform a series of optimization operations on CT sequence.
 
 Framework:
 <img src="image/framework.png" alt="Project Logo" width="600"/>
